@@ -1,0 +1,1 @@
+export { default as beadView } from './compont/bead_view'
